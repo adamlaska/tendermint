@@ -1,4 +1,4 @@
-FROM golang:1.12
+FROM golang:bullseye
 
 
 # Grab deps (jq, hexdump, xxd, killall)
