@@ -1,4 +1,4 @@
-FROM golang:1.12
+FROM golang:1.21rc3
 
 
 # Grab deps (jq, hexdump, xxd, killall)
