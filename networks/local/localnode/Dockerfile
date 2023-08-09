@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.16.7
 MAINTAINER Greg Szabo <greg@tendermint.com>
 
 RUN apk update && \
