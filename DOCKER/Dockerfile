@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.18.5
 LABEL maintainer="hello@tendermint.com"
 
 # Tendermint will be looking for the genesis file in /tendermint/config/genesis.json
